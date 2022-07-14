@@ -8,7 +8,7 @@ class AppConstants {
   static const String POPULAR_PRODUCT_URI = "/api/v1/products/popular";
   static const String RECOMMENDED_PRODUCT_URI = "/api/v1/products/recommended";
 
-  //'http://192.168.134.110:2000/popular.json'
+  //'http://xxx.xxx.xxx.xxx:2000/popular.json'
   static const String BASE_URLL = "http://xxx.xxx.xxx.xxx:2000";
   static const String POPULAR_PRODUCT_URIL = "/popular.json";
   static const String RECOMMENDED_PRODUCT_URIL = "/recommended.json";
