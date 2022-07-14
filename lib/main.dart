@@ -59,9 +59,9 @@ class MyApp extends StatelessWidget {
             //home: MainFoodPage(),
             //home: SplashScreen(),
             //initialRoute: RouteHelper.getInitial(),
-            home: SingInPage(),
-            //initialRoute: RouteHelper.getSplashPage(),
-            //getPages: RouteHelper.routes,
+            //home: SingInPage(),
+            initialRoute: RouteHelper.getSplashPage(),
+            getPages: RouteHelper.routes,
           );
         });
       },
